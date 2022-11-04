@@ -1,7 +1,6 @@
-- 👋 Hi, I’m *PRASAD
+- 👋 Hi, I’m PRASAD
 - 👀 I’m interested in MACHINE LEARNING & NEURAL NETWORKS
-- 🌱 I’m currently learning DEEP LEARNING
-- 📫 
+- 🌱 I’m currently learning DEEP LEARNING 
 
 <!---
 prasad-7/prasad-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
